@@ -1,4 +1,4 @@
-![Logo](https://docs.promitor.io/media/logos/promitor.png)
+![Logo](https://docs.promitor.io/unreleased/media/logos/promitor.png)
 
 **Bringing Azure Monitor metrics where you need them**
 
